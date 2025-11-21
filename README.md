@@ -31,3 +31,31 @@ Visualización: Chart.js / D3.js
 Deploy: Vercel / Netlify / Render
 
 📦 Instalación
+git clone https://github.com/tuusuario/mercantilismo-global.git
+cd mercantilismo-global
+npm install
+npm start
+⚙️ Configuración
+PORT=3000
+MONGO_URI=tu_conexion_mongodb
+API_KEY=tu_api
+
+🌐 Uso de la aplicación
+
+Accede al panel principal.
+
+Selecciona uno o más países.
+
+Consulta sus datos económicos.
+
+Crea acuerdos o simula intercambios.
+
+Observa cómo cambia su balanza comercial.
+
+
+
+
+📁 Estructura del proyecto
+
+
+
